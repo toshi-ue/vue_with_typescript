@@ -1,24 +1,34 @@
 <template>
-  <div class="app">hello, Vue With Typescript</div>
+  <div class="app">
+    <p>{{ name }}: {{ age }}</p>
+    <button @click="changeName('45')">change name</button>
+    <button @click="changeAge('45')">change age</button>
+  </div>
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue';
+import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: 'App',
-  components: {
-  }
+  name: "App",
+  components: {},
+  data() {
+    return {
+      name: "hello, Vue With Typescript",
+      age: 25 as number | string,
+    };
+  },
+  methods: {
+    changeName(name: string) {
+      this.name = name;
+    },
+    changeAge(age: string | number) {
+      this.age = age;
+      return age;
+    },
+  },
 });
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
 </style>
