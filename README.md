@@ -22,3 +22,23 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<!--
+参考サイト
+[Vue JS 3 Tutorial for Beginners #1 - Introduction - YouTube](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+[簡単な例で始めるVue3でTypeScript入門 | アールエフェクト](https://reffect.co.jp/vue/vue3-typescript)
+
+VueとTypeScriptを使用する場合は以下の2つがある
+([【2021年版】Vue.js + TypeScriptの開発スタイル - RAKUS Developers Blog | ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20210901/frontend#%E3%81%BE%E3%81%A8%E3%82%81))
+- Object Style
+- Class Style
+
+Vue3以降ではObject Styleが公式になるらしい
+
+その他参考
+[Vue Composition APIのrefとreactiveを解説！違いと使い分け－こばてくブログ](https://kobatech-blog.com/vue-composition-api-ref-reactive/)
+[VuejsとTypeScriptで快適にコーティングをするTips](https://zenn.dev/ryusou/articles/vuejs-typescript20210129)
+
+後々試してみたい
+[Vue + JSX + Nuxt Composition API で最高のフロント開発体験 - ANDPAD Tech Blog](https://tech.andpad.co.jp/entry/2021/07/01/170000)
+ -->
