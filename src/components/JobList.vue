@@ -37,7 +37,7 @@ export default defineComponent({
 <style scoped>
 .job-list {
   max-width: 960px;
-  margin: 40px auto;
+  margin: 16px auto;
 }
 .job-list ul {
   padding: 0;

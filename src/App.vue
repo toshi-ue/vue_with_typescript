@@ -1,5 +1,17 @@
 <template>
   <div class="app">
+    <p style="text-align: center; margin-bottom: 0">
+      <a
+        id="github-link"
+        href="https://github.com/toshi-ue/vue_with_typescript"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <font-awesome-icon :icon="['fab', 'github']" size="2x" />
+        <span class="github-content"> GitHub Repository </span>
+        <font-awesome-icon :icon="['fa', 'external-link-alt']" size="xs" />
+      </a>
+    </p>
     <JobList :jobs="jobs" />
   </div>
 </template>
@@ -47,4 +59,11 @@ export default defineComponent({
 </script>
 
 <style>
+#github-link {
+  color: black;
+  text-decoration: none;
+}
+.github-content {
+  font-size: 1.3rem;
+}
 </style>
