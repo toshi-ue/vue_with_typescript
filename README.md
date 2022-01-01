@@ -36,6 +36,9 @@ VueとTypeScriptを使用する場合は以下の2つがある
 Vue3以降ではObject Styleが公式になるらしい
 
 その他参考
+[import Vue from 'vue'の意味を研究して、分かってきたもの | xyyolab👨‍🔬🔥](https://blog.xyyolab.com/views/geek/frontend/0010-import-vue-from-vue.html#import-vue-from-vue-%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%BF%E3%81%88%E3%82%8B%E3%81%8B%EF%BC%9F)
+
+
 [Vue Composition APIのrefとreactiveを解説！違いと使い分け－こばてくブログ](https://kobatech-blog.com/vue-composition-api-ref-reactive/)
 [VuejsとTypeScriptで快適にコーティングをするTips](https://zenn.dev/ryusou/articles/vuejs-typescript20210129)
 
