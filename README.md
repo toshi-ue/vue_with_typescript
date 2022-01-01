@@ -26,7 +26,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <!--
 参考サイト
 [Vue JS 3 Tutorial for Beginners #1 - Introduction - YouTube](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+
 [簡単な例で始めるVue3でTypeScript入門 | アールエフェクト](https://reffect.co.jp/vue/vue3-typescript)
+
+[TypeScript再入門 ― 「がんばらないTypeScript」で、JavaScriptを“柔らかい”静的型付き言語に - エンジニアHub｜Webエンジニアのキャリアを考える！](https://eh-career.com/engineerhub/entry/2019/04/16/103000#%E3%81%8C%E3%82%93%E3%81%B0%E3%82%89%E3%81%AA%E3%81%84TypeScript%E3%81%A8%E3%81%84%E3%81%86%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3)
 
 VueとTypeScriptを使用する場合は以下の2つがある
 ([【2021年版】Vue.js + TypeScriptの開発スタイル - RAKUS Developers Blog | ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20210901/frontend#%E3%81%BE%E3%81%A8%E3%82%81))
