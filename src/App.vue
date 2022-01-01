@@ -13,6 +13,7 @@
           <font-awesome-icon :icon="['fa', 'external-link-alt']" size="xs" />
         </a>
       </p>
+      <h1>Hyrule Jobs</h1>
       <button @click="handleClick('title')">order by title</button>
       <button @click="handleClick('salary')">order by salary</button>
       <button @click="handleClick('location')">order by location</button>
