@@ -25,6 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <!--
 参考サイト
+[Vue 3 with TypeScript Tutorial #1 - Intro & Setup - YouTube](https://www.youtube.com/watch?v=JfI5PISLr9w&list=PL4cUxeGkcC9gCtAuEdXTjNVE5bbMFo5OD)
 [Vue JS 3 Tutorial for Beginners #1 - Introduction - YouTube](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 
 [簡単な例で始めるVue3でTypeScript入門 | アールエフェクト](https://reffect.co.jp/vue/vue3-typescript)
